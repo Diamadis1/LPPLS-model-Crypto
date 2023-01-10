@@ -1,5 +1,10 @@
-# Project-5
-Lppls model on full BITCOIN time series (trying to predict a bubble or a significant movement in the near future) 
+# Lppls model on full BITCOIN time series (trying to predict a bubble or a significant movement in the near future)
+ 
+Nowadays we can safely say that Bitcoin belongs to the most volatile category in terms of price in recent years as it is based on a relatively new technology which seems to be very promising for the future. 
+
+It is very important to be able to interpret the way its price is moving and possibly predict as accurately as we can a potential bullish or bearish bubble, which in theory would give an investor useful information on how to invest in the particular product with prudence. 
+
+Firstly, we will try using a very popular model to interpret its movement and examine cases in which there are such indications
 
 Price/day in logarithmic scale
 ![image](https://user-images.githubusercontent.com/98957437/211603724-5d4f30b0-a402-4b30-97e6-5b3706a6dc24.png)
